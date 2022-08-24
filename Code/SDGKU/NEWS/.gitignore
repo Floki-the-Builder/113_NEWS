@@ -1,0 +1,6 @@
+venv
+*__pycache__* 
+mc1.md
+.env
+mc?.md 
+heroku_config.sh
